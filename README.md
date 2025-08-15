@@ -45,7 +45,7 @@ Fluent in **Spanish** and **English (C1)**.
 - **Arduino-Based Robotic Eyes** — Servo-controlled robotic eyes simulating visual tracking.
 - **Electronic Thermostat** — Python-based automotive thermostat with enhanced telemetry.
 
-> Reemplaza los enlaces `[#]` por tus repositorios cuando los publiques.
+> Repositorios de proyectos todavía por subir.
 
 ---
 
