@@ -25,27 +25,31 @@ Fluent in **Spanish** and **English (C1)**.
 ## 🛠 Tech Stack
 
 ### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🗄️ Databases & Backend Services
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🔌 IoT & Embedded
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB%20Design-009241?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
 ### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&ogo=visualstudiocode&logoColor=white) ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-0078D4?style=for-the-badge&logo=siemens&logoColor=white) ![OnShape](https://img.shields.io/badge/OnShape-003BFF?style=for-the-badge&logo=onshape&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&ogo=visualstudiocode&logoColor=white) ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-0078D4?style=for-the-badge&logo=siemens&logoColor=white) ![OnShape](https://img.shields.io/badge/OnShape-003BFF?style=for-the-badge&logo=onshape&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white) ![Fusion360](https://img.shields.io/badge/Fusion360-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
+- **[Levitador Control 4](https://github.com/MoonCloud02/Levitador-Control-4)** — Advanced levitation control system with precision feedback mechanisms.
+- **[Micros 1 Project](https://github.com/MoonCloud02/micros-1-project)** — Microcontroller-based project showcasing embedded systems development.
+- **[Automated Telescope](https://github.com/MoonCloud02/automated-telescope)** — ESP32-CAM + Python + MicroPython for real-time star tracking and magnetic north calibration.
 - **GLaDOx – Physics Learning Robot** — Educational robot to teach high school physics. Control logic in Python/C++.
-- **Automated Telescope** — ESP32-CAM + Python + MicroPython for real-time star tracking and magnetic north calibration.
 - **RC Plane – Malibu Model** — Remote-controlled airplane with embedded Python logic.
 - **Industrial Automation Plant Simulation** — PLC control logic in Ladder with Siemens TIA Portal.
 - **Arduino-Based Robotic Eyes** — Servo-controlled robotic eyes simulating visual tracking.
 - **Electronic Thermostat** — Python-based automotive thermostat with enhanced telemetry.
 
-> Repositorios de proyectos todavía por subir.
+> Some repositories still left to be uploaded.
 
 ---
 
