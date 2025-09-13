@@ -36,6 +36,9 @@ Fluent in **Spanish** and **English (C1)**.
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&ogo=visualstudiocode&logoColor=white) ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-0078D4?style=for-the-badge&logo=siemens&logoColor=white) ![OnShape](https://img.shields.io/badge/OnShape-003BFF?style=for-the-badge&logo=onshape&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white) ![Fusion360](https://img.shields.io/badge/Fusion360-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
 
+### 🔄 Automation & Workflows
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make-6366F1?style=for-the-badge&logo=make&logoColor=white)
+
 ---
 
 ## 📂 Featured Projects
